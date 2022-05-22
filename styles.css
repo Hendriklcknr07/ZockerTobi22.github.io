@@ -37,3 +37,19 @@ a{
     width: 100%;
     text-align: center;
 }
+
+.color-insta{
+    color: white;
+}
+
+.color-discord{
+    color: gray;
+}
+
+.color-yt{
+    color: red;
+}
+
+.color-twitch{
+    color: blue;
+}
