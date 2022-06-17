@@ -46,10 +46,35 @@ a{
     color: gray;
 }
 
+.picture-kindergarten{
+
+}
+
 .color-yt{
     color: red;
 }
 
 .color-twitch{
     color: blue;
+}
+
+.h3{
+    display: flex;
+    justify-content: center;
+}
+
+.picture-nav{
+    width: 100%;
+    text-align: center;
+}
+
+.geburt-picture{
+    display: flex;
+    height: 200px;
+    width: 200px;
+}
+
+.kindergarten-picture{
+    height: 200px;
+    width: 200px;
 }
